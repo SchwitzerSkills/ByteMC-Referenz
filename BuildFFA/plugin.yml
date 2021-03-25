@@ -1,0 +1,9 @@
+main: de.FriendPlays.spigot.BuildFFA.main.Main
+name: BuildFFA
+version: 1.0
+author: SchwitzerSkills
+
+commands:
+    build:
+    setloc:
+    gm:

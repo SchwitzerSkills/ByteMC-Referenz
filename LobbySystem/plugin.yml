@@ -1,0 +1,10 @@
+main: de.FriendPlays.spigot.LobbySystem.main.Main
+name: LobbySystem
+version: 1.0
+author: SchwitzerSkills
+
+commands:
+    build:
+    setloc:
+    gm:
+    fick:

@@ -1,0 +1,9 @@
+main: de.revive.spigot.GunGame.main.Main
+name: GunGame
+version: 1.0
+author: FaZe_Phill12king
+
+commands:
+  build:
+  setloc:
+  gm:

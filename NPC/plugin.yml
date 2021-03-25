@@ -1,0 +1,7 @@
+main: de.SchwitzerSkills.spigot.VNPC.main.Main
+name: NPC
+version: 1.0
+author: SchwitzerSkills
+
+commands:
+  vnpc:

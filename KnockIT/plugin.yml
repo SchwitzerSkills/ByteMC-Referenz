@@ -1,0 +1,8 @@
+main: de.FriendPlays.spigot.KnockIT.main.Main
+name: KnockIT
+version: 1.0
+author: SchwitzerSkills
+
+commands:
+    build:
+    setloc:
